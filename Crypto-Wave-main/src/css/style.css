@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(209, 120, 238);
+}
+
+#logo{
+    max-width: 350px;
+    max-height: 350px;
+    padding: 10px;
+}
+
+li{
+    color: white;
+}
+
+.nav-text{
+    color: white;
+}
+
+.status{
+    border-radius: 20px;
+    background-color: red;
+    display: inline-flex;
+    font-size: medium;
+    padding: 10px;
+}
+.center {
+    position:absolute;
+    top:900px;
+    left:500px;
+    margin-bottom: 16px;
+   
+  }
+   #home h1{
+     top :500px;
+      font-size: 100px;
+      color: black;
+      text-align: center;
+  }
